@@ -1,5 +1,7 @@
 # Vue 2 + Typescript + Vite
 
+fork by https://stackblitz.com/edit/vue2-vite-typescript-starter
+
 This template should help get you started developing with Vue 2 and Typescript in Vite.
 
 ## Recommended IDE Setup
